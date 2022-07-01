@@ -121,6 +121,9 @@ Identificar y localizar relaciones como tambien sus fallas de un circuito serie 
 
 ![image](https://user-images.githubusercontent.com/105680588/176827152-7580d838-27ea-4c1c-b4db-c7285b3da876.png)
 
+![image](https://user-images.githubusercontent.com/105680588/176829929-ee087e59-62f7-4c45-acf6-2b8803950c9e.png)
+
+![image](https://user-images.githubusercontent.com/105680588/176829969-9f22fd58-ab73-40f9-a570-f8856c88853c.png)
 
 **4. VIDEO**
 
