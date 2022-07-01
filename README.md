@@ -1,6 +1,6 @@
 **Nombre:** Bustos Viteri Ruben Alejandro
 
-**Ingeniero:**
+**Ingeniero:** Darwin Alulema
 
 **Nrc:** 7318
 
@@ -114,7 +114,11 @@ Identificar y localizar relaciones como tambien sus fallas de un circuito serie 
 
 **4. VIDEO**
 
+https://www.youtube.com/watch?v=ogsvq5nXKJc&ab_channel=RubenBustos
+
 **5. CONCLUSIONES**
+
+Con la Practica se demostro y se valido su funcionamiento de los teoremas vistos en esta practica y asi con los ejercicios poder reforzar el conocimiento que se resivio y asi llevar de una mejor manera el capitulo 7 y 8. 
 
 **6. BIBLIOGRAFÌA**
 
