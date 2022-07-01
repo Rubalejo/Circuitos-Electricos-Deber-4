@@ -1,14 +1,20 @@
-Nombre: Bustos Viteri Ruben Alejandro
+**Nombre:** Bustos Viteri Ruben Alejandro
 
-Ingeniero:
+**Ingeniero:**
 
-Nrc:
+**Nrc:** 7318
 
 **1. OBJETIVOS**
 
 **Objetivo General**
 
+Aplicar los teoremas vistos en las 2 unidades (7 y 8), y reconocer y describir las caracteristicas de una fuente de voltaje y de corriente.
+
 **Objertivo Especifico**
+
+Poder realizar conversiones de fuentes.
+
+Identificar y localizar relaciones como tambien sus fallas de un circuito serie - paralelo.
 
 **2. MARCO TEÒRICO**
 
@@ -32,7 +38,7 @@ Nrc:
 
 ![image](https://user-images.githubusercontent.com/105680588/176809814-f5557fe7-0217-4832-a916-77338e58a8c8.png)
 
-3. RESOLUCIÒN DE EJERCICIOS 
+**3. RESOLUCIÒN DE EJERCICIOS** 
 
 ![image](https://user-images.githubusercontent.com/105680588/176810258-a0a4b73b-b9d1-4e31-b44f-d9029a4caeb3.png)
 
@@ -106,11 +112,11 @@ Nrc:
 **UNIDAD 8**
 
 
-4. VIDEO
+**4. VIDEO**
 
-5. CONCLUSIONES
+**5. CONCLUSIONES**
 
-6. BIBLIOGRAFÌA
+**6. BIBLIOGRAFÌA**
 
 Dr Hector Torres. (2017, November 28). Divisor de Voltaje o Tensión Formulas y Ejemplos. HETPRO/TUTORIALES; HETPRO. https://hetpro-store.com/TUTORIALES/divisor-de-voltaje/#:~:text=Un%20divisor%20de%20voltaje%2C%20es,resistencias%20involucradas%20en%20el%20divisor.
 
@@ -124,9 +130,7 @@ Capítulo 5 Circuitos puente. (n.d.). http://users.df.uba.ar/moreno/cursos/lab3/
 
 Khan Academy. (2022). Khanacademy.org. https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/a/ee-delta-wye-resistor-networks
 
-‌
-
-RUBRICA
+**RUBRICA**
 
 ![image](https://user-images.githubusercontent.com/105680588/176810065-73264a66-f964-49c7-a903-923d383746fa.png)
 
