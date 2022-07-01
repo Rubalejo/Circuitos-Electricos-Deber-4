@@ -111,6 +111,16 @@ Identificar y localizar relaciones como tambien sus fallas de un circuito serie 
 
 **UNIDAD 8**
 
+![image](https://user-images.githubusercontent.com/105680588/176827075-17df4e76-8488-4df4-85d1-dc724439c493.png)
+
+![image](https://user-images.githubusercontent.com/105680588/176827091-d94336c2-239f-42fe-a786-c7f1f77360da.png)
+
+![image](https://user-images.githubusercontent.com/105680588/176827113-93e471f9-0bdb-4e37-a223-a142ff8a12ee.png)
+
+![image](https://user-images.githubusercontent.com/105680588/176827134-e2eeb2ac-ddc6-434f-9f8d-437802d4fc57.png)
+
+![image](https://user-images.githubusercontent.com/105680588/176827152-7580d838-27ea-4c1c-b4db-c7285b3da876.png)
+
 
 **4. VIDEO**
 
